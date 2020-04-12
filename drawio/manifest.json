@@ -2,11 +2,11 @@
    "app": {
       "launch": {
          "container": "tab",
-         "web_url": "https://www.draw.io/"
+         "web_url": "https://app.diagrams.net/"
       },
       "web_content": {
          "enabled": true,
-         "origin": "https://www.draw.io"
+         "origin": "https://app.diagrams.net"
       }
    },
    "default_locale": "en",
